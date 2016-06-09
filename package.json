@@ -1,0 +1,24 @@
+{
+  "name": "dependencies-table",
+  "version": "0.0.1",
+  "description": "Generate markdown table with your dependencies in your package.json",
+  "main": "index.js",
+  "scripts": {
+    "test": "test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/toutpt/dependencies-table.git"
+  },
+  "author": "toutpt",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/toutpt/dependencies-table/issues"
+  },
+  "homepage": "https://github.com/toutpt/dependencies-table#readme",
+  "dependencies": {
+    "github-url-to-object": "^2.2.1",
+    "markdown-table": "^0.4.0",
+    "yargs": "^4.7.1"
+  }
+}
